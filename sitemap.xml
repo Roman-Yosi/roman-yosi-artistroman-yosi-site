@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url>
-<loc>https://roman-yosi.github.io/roman-yosi-music/</loc>
-</url>
+  <url>
+    <loc>https://roman-yosi.github.io/roman-yosi-artistroman-yosi-site/</loc>
+  </url>
 
-<url>
-<loc>https://roman-yosi.github.io/roman-yosi-music/about.html</loc>
-</url>
+  <url>
+    <loc>https://roman-yosi.github.io/roman-yosi-artistroman-yosi-site/about.html</loc>
+  </url>
 
-<url>
-<loc>https://roman-yosi.github.io/roman-yosi-music/music.html</loc>
-</url>
+  <url>
+    <loc>https://roman-yosi.github.io/roman-yosi-artistroman-yosi-site/music.html</loc>
+  </url>
 
-<url>
-<loc>https://roman-yosi.github.io/roman-yosi-music/press.html</loc>
-</url>
+  <url>
+    <loc>https://roman-yosi.github.io/roman-yosi-artistroman-yosi-site/press.html</loc>
+  </url>
 
 </urlset>
